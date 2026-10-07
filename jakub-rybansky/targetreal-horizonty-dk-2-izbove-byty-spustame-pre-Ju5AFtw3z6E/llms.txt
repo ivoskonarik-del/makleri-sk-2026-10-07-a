@@ -1,0 +1,22 @@
+# TARGETreal | Horizonty DK 2-izbové byty, Spúšťame predaj!
+
+> horizontydk.skPonúkame na predaj 2-izbové byty v novom developerskom projekte Horizonty Dolný Kubín, ktorý je aktuálne vo výstavbe.Byty majú výmery od 52 m² (bez balkóna/predzáhradky). Každý byt disponuje balkónom alebo predzáhradkou. Predávajú sa v štandardnom vyhotovení.K bytu prislúcha pivničná kobka na podlaží.Projekt sa nachádza v tichej a pokojnej lokalite v blízkosti centra mesta.Dôležité i
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 2-izbový
+- Plocha: 52 m²
+- Podlaží: 2
+- Stav: Novostavba
+- Vlastnictví: Firemné
+- Energetická náročnost: A
+- Lokalita: Dolný Kubín
+- Cena: 161 200 €
+
+## Kontakt
+- Makléř: B. S. B. A. Jakub Rybanský
+- Telefon: +421902537222
+- E-mail: jakub.rybansky@targetreal.sk
+- Kancelář: TARGETreal s. r. o.
+- Web kanceláře: https://www.targetreal.sk

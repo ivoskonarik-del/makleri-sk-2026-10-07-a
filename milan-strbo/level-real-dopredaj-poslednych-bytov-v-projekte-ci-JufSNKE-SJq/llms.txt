@@ -1,0 +1,21 @@
+# LEVEL REAL - Dopredaj posledných bytov v projekte Cisárky
+
+> LEVEL REAL ako exkluzívny predajca projektu Cisárky ponúka na predaj 3-izbový byt na periférii mesta Sereď. Výmera obytnej časti bytu je veľkorysých 86,69 m2 + terasa o výmere 7 m2. Byt sa nachádza na 2. nadzemnom podlaží a má ideálnu orientáciu na východ, sever aj západ, čo zaručí dokonalú svetlosť tohoto bytu. Na Webovej stránke: www.cisarky.sk sa dozviete viac o ponúkaných bytoch, o ich orient
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 3-izbový
+- Plocha: 86.69 m²
+- Podlaží: 2
+- Stav: Novostavba
+- Vlastnictví: Firemné
+- Energetická náročnost: A
+- Lokalita: Sereď
+- Cena: 169 990 €
+
+## Kontakt
+- Makléř: Milan Štrbo
+- Telefon: +421905283041
+- E-mail: strbo@levelreal.sk
+- Kancelář: LEVEL REAL, s.r.o.
