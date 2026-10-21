@@ -1,0 +1,21 @@
+# PREDAJ - 2- izbový byt na Cementárenskej ul. s terasou a garáž. státím
+
+> Ponúkame na predaj nový 2-izbový apartmán v novostavbe na Cementárenskej ulici v Stupave. Apartmán sa nachádza na 1. poschodí a má výmeru 43 m². Veľkou výhodou je priestranná terasa s výmerou 20 m², ktorá ponúka dostatok priestoru na oddych a príjemné posedenie.Apartmán je veľmi dobre dispozične riešený a ponúka moderné a praktické bývanie. V cene je zahrnuté parkovacie miesto v podzemnej garáži a
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 2-izbový
+- Plocha: 43 m²
+- Podlaží: 1
+- Stav: Novostavba
+- Vlastnictví: Osobné
+- Lokalita: Stupava
+- Cena: 180 000 €
+
+## Kontakt
+- Makléř: Alexandra Katonová
+- Telefon: +421911896465
+- E-mail: katonova@maximreal.sk
+- Kancelář: Maxim Real
+- Web kanceláře: https://maximreal.sk/
